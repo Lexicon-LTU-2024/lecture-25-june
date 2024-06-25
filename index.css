@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: brown;
+  margin-bottom: 40px;
+  padding: 20px;
+}
+
+article {
+  background-color: aqua;
+  color: darkred;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.box {
+  font-size: 20px;
+}
+
+.box-1 {
+  border: 2px solid red;
+  cursor: pointer;
+  width: 200px;
+}
+
+.box-3 {
+  background-color: fuchsia;
+}
